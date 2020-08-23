@@ -14,4 +14,4 @@ The array where we strjoin all read characters is static. This allows us to reme
 This repository does not contain all the necessary files to run the get_next_line function.
 If you wish to test my get_next_line, it has been merged with my libft and can be found below.
 
-#### [My libft project] (https://github.com/jmakela42/Libft)
+#### [My libft project](https://github.com/jmakela42/Libft)
