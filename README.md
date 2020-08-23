@@ -4,7 +4,7 @@ Function to read line by line from file descriptor.
 
 Score 125/100
 
-### 
+### Overview
 
 The basic idea is that the function reads BUFF_SIZE amount of bytes from the file descriptor(fd), strjoins it to the final char array that will be returned and scans the array for '\n' characters. Reading continues as long as there is something to read and '\n' character has not been found. Upon finding the '\n' (or '\0' if we have reached the end of the file), we check it's position in the array and strdup the line up to '\n' (or '\0') to the array given as parameter.
 
