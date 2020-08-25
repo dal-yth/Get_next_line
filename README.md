@@ -2,7 +2,7 @@
 
 Function to read line by line from file descriptor.
 
-Score 125/100
+##### Score 125/100
 
 ### Overview
 
